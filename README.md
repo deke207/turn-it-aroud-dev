@@ -22,6 +22,7 @@ Sid, Assistant to Christie, Turn It Around
 Beyond what WordPress offers with its core functionality (posts, pages, media management, comments, etc.) we’ll use a combination of custom theme functionality and plugins to add these additional features for Turn it Around:
 
 Drupal Import
+
 Partner would like blog content imported from current Drupal CMS.
 
 Other 
@@ -55,10 +56,12 @@ We will work with the Program Committee at Turn It Around for content. The site 
 * Contact Us
 
 ### Key External Links
+
 Social
-http://instagram.com/turnitaround1234234
-http://twitter.com/turnitaround1234
-http://youtube.com/turnitaround1234
-http://facebook.com/turnitaround1234
+
+* http://instagram.com/turnitaround1234234
+* http://twitter.com/turnitaround1234
+* http://youtube.com/turnitaround1234
+* http://facebook.com/turnitaround1234
 
 
